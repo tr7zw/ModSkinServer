@@ -1,4 +1,6 @@
-# skinserver Project
+# ModSkinServer Project
+
+Webserver logic for the ModSkinServer. The Server serves static files and provides a REST API with statistic data. No personal data is stored or processed by the server.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
